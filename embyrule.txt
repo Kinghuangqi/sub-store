@@ -1,0 +1,2 @@
+  - DOMAIN-SUFFIX,stream.ntrrr.top
+  - DOMAIN-SUFFIX,media.nijigem.by

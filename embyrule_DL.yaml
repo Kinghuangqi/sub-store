@@ -1,4 +1,6 @@
 payload:
+- DOMAIN-SUFFIX,push-kr.misakaf.org
+- IP-CIDR,102.223.180.108/24
 - DOMAIN-SUFFIX,stream.ntrrr.top
 - DOMAIN-SUFFIX,media.nijigem.by
 - DOMAIN-SUFFIX,emby3.mcjoker.xyz

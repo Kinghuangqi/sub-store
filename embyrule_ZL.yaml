@@ -1,4 +1,6 @@
 payload:
+- DOMAIN-SUFFIX,baidu.com
+- DOMAIN-SUFFIX,sohu.com
 - DOMAIN-SUFFIX,tank99.top
 - DOMAIN-KEYWORD,ycxdy.top
 - DOMAIN-SUFFIX,jz.mcjoker.xyz

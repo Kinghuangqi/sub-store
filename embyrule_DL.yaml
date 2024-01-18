@@ -1,5 +1,5 @@
 payload:
-- DOMAIN-SUFFIX,cdn.lyrebirdemby.com＃增加琴岛代理
+- DOMAIN,cdn.lyrebirdemby.com＃增加琴岛代理
 - DOMAIN-SUFFIX,push-kr.misakaf.org
 - IP-CIDR,102.223.180.108/24
 - DOMAIN-SUFFIX,stream.ntrrr.top

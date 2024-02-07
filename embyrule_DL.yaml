@@ -1,7 +1,7 @@
 payload:
 - DOMAIN,film.ohhhh.org
 - DOMAIN,v.20120714.xyz
-- DOMAIN,cdn.emby.cbcb.lol
+- DOMAIN,emby.cbcb.lol
 - DOMAIN,cdn.lyrebirdemby.com
 - DOMAIN-SUFFIX,push-kr.misakaf.org
 - IP-CIDR,102.223.180.108/24

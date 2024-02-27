@@ -5,6 +5,7 @@ DOMAIN,emby.cbcb.lol
 DOMAIN-SUFFIX,cdn.lyrebirdemby.com
 DOMAIN-SUFFIX,push-kr.misakaf.org
 IP-CIDR,102.223.180.108/24
+IP-CIDR,185.233.106.103/24
 DOMAIN-SUFFIX,stream.ntrrr.top
 DOMAIN-SUFFIX,media.nijigem.by
 DOMAIN-SUFFIX,emby3.mcjoker.xyz
